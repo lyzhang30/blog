@@ -1,3 +1,5 @@
+## 说明
+本项目是对原项目进行依赖的升级
 ## Blog
 
 fork from [My Blog](https://github.com/ZHENFENG13/My-Blog) , 该作者是在 [Tale](https://github.com/otale/tale) 博客系统基础上进行修改的。
